@@ -9,10 +9,15 @@
     |            ///\\\              |      🍗 OS: "Windows 11"
     |          /        \            |      🎉 Editor: "VSCode"
     |         /          \           |      🪢 Hobbies: ["Apex Legends", "Programming"]
-    |        /            \          |
-    |       /              \         |
-    |      /                \        |      Contacts
+    |        /   (\_/)    \          |
+    |       /    ( •-•)    \         |
+    |      /     / >❤️      \        |      Contacts
     |     /                  \       |      --------
     |                                |      Email: "contact.support@maybe-ange.com"
     +--------------------------------+      Twitter: "@MaybeAnge"
                                             Discord: "Maybe Ange#5100"
+
+
+(\_/)
+( •-•)
+/ >❤️
