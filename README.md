@@ -13,6 +13,6 @@
     |       /              \         |
     |      /                \        |      Contacts
     |     /                  \       |      --------
-    |                                |      Email: "contact.support@maybe-ange.com"
-    +--------------------------------+      Twitter: "@MaybeAnge"
-                                            Discord: "https://discord.gg/maybe-ange"
+    |                                |      Email: contact.support@maybe-ange.com
+    +--------------------------------+      Instgram: https://www.instagram.com/maybe.ange/
+                                            Discord: https://discord.gg/maybe-ange
