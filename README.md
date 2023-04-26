@@ -10,9 +10,11 @@
     |          /        \            |      🎉 Editor: "VSCode"
     |         /          \           |      🪢 Hobbies: ["Apex Legends", "Programming"]
     |        /            \          |
-    |       /              \         |
-    |      /                \        |      Contacts
-    |     /                  \       |      --------
+    |       /              \         |                        (\_/)
+    |      /                \        |                        ( •-•)
+    |     /                  \       |                        / >❤️
+    |    /                    \      |      Contacts
+    |   /                      \     |      --------
     |                                |      Email: contact.support@maybe-ange.com
     +--------------------------------+      Instgram: https://www.instagram.com/maybe.ange/
                                             Discord: https://discord.gg/maybe-ange
