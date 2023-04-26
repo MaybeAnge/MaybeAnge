@@ -27,4 +27,4 @@
     🎮 Farming Simulator 17             🕘 210 hours
     🎮 Grand Theft Auto V               🕘 150 hours
 
-    Total of all games = 🕘8.728 hours
+    Total of all games = 🕘 8.728 hours
