@@ -5,7 +5,7 @@
                                             ----------
                                             🎪 Years old: "19"
     +--------------------------------+      🎈 Dreamland: "North Carolina, United States"
-    |                                |      🎗️ Languages: ["PHP", "Javascript", "JAVA", "HTML", "CSS"]
+    |                                |      🎗️ Languages: [CS, XAML, WPF, PHP, Javascript, JAVA, HTML, CSS]
     |            ///\\\              |      🍗 OS: "Windows 11"
     |          /        \            |      🎉 Editor: "VSCode"
     |         /          \           |      🪢 Hobbies: ["Apex Legends", "Programming"]
