@@ -5,7 +5,7 @@
                                             ----------
                                             🎪 Years old: 19
     +--------------------------------+      🎈 Dreamland: North Carolina, United States
-    |                                |      🎗️ Languages: CS, XAML, WPF, PHP, Javascript, JAVA, HTML, CSS
+    |                                |      🎗️ Languages: C#, XAML, WPF, PHP, Javascript, JAVA, HTML, CSS
     |                                |      🙌 Main languages: English, Russian, French.
     |            ///\\\              |      🍗 OS: Windows 11
     |          /        \            |      🎉 Editor: VSCode / VS22
