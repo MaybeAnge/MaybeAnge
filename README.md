@@ -4,7 +4,7 @@
                                             MaybeAnge@Info
                                             ----------
                                             🎪 Years old: 19
-    +--------------------------------+      🎈 Dreamland: Irkutsk, Russian Federation 🇷🇺
+    +--------------------------------+      🎈 Dreamland: Krasnoyarsk, Russian Federation 🇷🇺
     |                                |      🎗️ Languages: C#, XAML, WPF, PHP, Javascript, JAVA, HTML, CSS
     |                                |      🙌 Main languages: English, Russian, French.
     |            ///\\\              |      🍗 OS: Windows 11
