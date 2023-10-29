@@ -16,7 +16,7 @@
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🎉 Profil Views
+## 🎉 Profile views
 ![](https://visitcount.itsvg.in/api?id=MaybeAnge&label=Profile%20Views)
 
 ## 💰 You can help me by Donating
