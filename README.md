@@ -17,7 +17,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🎉 Profil Views
-![](https://visitcount.itsvg.in/api?id=MaybeAnge&label=Profile%20Views&pretty=false)
+![](https://visitcount.itsvg.in/api?id=MaybeAnge&label=Profile%20Views)
 
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MaybeAngeCorp) 
