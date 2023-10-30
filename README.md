@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎪 Years old: 19<br>🎈 Dreamland: Krasnoyarsk, Russian Federation 🇷🇺<br>🎗️ Languages: C#, XAML, WPF, PHP, Javascript, JAVA, HTML, CSS<br>🙌 Main languages: English, Russian, French.<br>🍗 OS: Windows 11<br>🎉 Editor: VSCode / VS22<br>🪢 Hobbies: Apex Legends, Programming
+🎪 Years old: 19<br>🎈 Dreamland: Krasnoyarsk, Russian Federation 🇷🇺<br> 🙌 Main languages: English, Russian, French.<br>🍗 OS: Windows 11<br>🎉 Editor: VSCode / VS22<br>🪢 Hobbies: Apex Legends, Programming
 
 
 ## 🌐 Socials:
