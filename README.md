@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎪 Years old: 20<br>🎈 Dreamland: Switzerland & Krasnoyarsk, Russian Federation 🇷🇺<br> 🙌 Main languages: English, Russian, French.<br>🍗 OS: Windows 11<br>🎉 Editor: VSCode / VS22<br>🪢 Hobbies: GTA5-RP FlashBack, Programming
+🎪 Years old: 20<br>🎈 Dreamland: Switzerland & Krasnoyarsk, Russian Federation 🇷🇺<br> 🙌 Main languages: English, Russian, French.<br>🍗 OS: Windows 11<br>🎉 Editor: VSCode / VS22<br>🪢 Hobbies: FlashBack FA ADMIN, Programming
 
 
 ## 🌐 Socials:
